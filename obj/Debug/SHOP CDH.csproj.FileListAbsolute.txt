@@ -1,0 +1,71 @@
+D:\BTN_c#\SHOP CDH\SHOP CDH\bin\Debug\SHOP CDH.exe.config
+D:\BTN_c#\SHOP CDH\SHOP CDH\bin\Debug\SHOP CDH.exe
+D:\BTN_c#\SHOP CDH\SHOP CDH\bin\Debug\SHOP CDH.pdb
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP CDH.csproj.AssemblyReference.cache
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Form1.resources
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Properties.Resources.resources
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP CDH.csproj.GenerateResource.cache
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP CDH.csproj.CoreCompileInputs.cache
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP CDH.exe
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP CDH.pdb
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.dssanpham.resources
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Donhang.resources
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Khachhang.resources
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Nhacungcap.resources
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Nhanvien.resources
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Doanhthu.resources
+D:\BTN_c#\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Hoadon.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\SHOP CDH.exe.config
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\SHOP CDH.exe
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\SHOP CDH.pdb
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP CDH.csproj.AssemblyReference.cache
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Doanhthu.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Hoadon.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Khachhang.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Nhacungcap.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Nhanvien.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.Properties.Resources.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP CDH.csproj.GenerateResource.cache
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP CDH.csproj.CoreCompileInputs.cache
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP CDH.exe
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP CDH.pdb
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.DangKy.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.DangNhap.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.Geometry.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.Geometry.Text.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.Numerics.Vectors.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.Geometry.xml
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.Numerics.Vectors.xml
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP CDH.csproj.Up2Date
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.QuenMatKhau.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.NhapHang.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.XuatHang.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.TonKho.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\ClosedXML.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\DocumentFormat.OpenXml.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\ExcelNumberFormat.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\Irony.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\SixLabors.Fonts.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\Spire.Common.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\Spire.License.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\Spire.Pdf.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\Spire.XLS.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.Buffers.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.IO.Packaging.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.Memory.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\XLParser.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\Microsoft.mshtml.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\ClosedXML.xml
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\DocumentFormat.OpenXml.xml
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\ExcelNumberFormat.xml
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\SixLabors.Fonts.xml
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.Buffers.xml
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.IO.Packaging.xml
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.Memory.xml
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SHOP CDH\SHOP CDH\SHOP CDH\obj\Debug\SHOP_CDH.CTHD.resources
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\BouncyCastle.Crypto.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\itextsharp.dll
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\itextsharp.xml
+D:\SHOP CDH\SHOP CDH\SHOP CDH\bin\Debug\itextsharp.pdfa.dll
